@@ -3,31 +3,21 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
-
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+In this presentation I create and manage a Ticketing system. Going through ticket properties, understanding of SLAs. Creating different departments and permissions for those departments. Another task was having users and functioning what they can and can not access<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- Tickets Properties
+- SLAs (Service Level Agreement)
+- Departments
+- Permissions
+- Users
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
 
-<h2>Ticket Lifecycle Stages</h2>
-
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
-
-<h2>Lifecycle Stages</h2>
+<h2>Stages</h2>
 
 <p>
 <img src="https://i.imgur.com/dDkURhv.png"
